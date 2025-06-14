@@ -1,0 +1,5 @@
+{
+  "snapshot": "ubuntu-22.04-base",
+  "install": "pip install numpy pandas matplotlib seaborn networkx scipy scikit-learn jupyter",
+  "terminals": []
+}
